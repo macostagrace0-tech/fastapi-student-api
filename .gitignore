@@ -1,0 +1,21 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Test/cache
+.pytest_cache/
+.coverage
+
+# Local database backups and files
+*.sql
+*.dump
